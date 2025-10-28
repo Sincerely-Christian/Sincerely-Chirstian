@@ -3,7 +3,7 @@
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-I am currently completing my final term at Western Governors University, pursuing a Bachelor of Science in Cybersecurity and Information Assurance. My studies have provided me with a strong foundation in security principles, risk management, and hands-on technical skills across network defense, digital forensics, and incident response.
+Hello I'm Christian, I am currently completing my final term at Western Governors University, pursuing a Bachelor of Science in Cybersecurity and Information Assurance. My studies have provided me with a strong foundation in security principles, risk management, and hands-on technical skills across network defense, digital forensics, and incident response.
 
 ## Objective
 Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and skills to real-world challenges. My goal is to transition into a professional cybersecurity role where I can contribute to protecting systems and data while continuing to grow as a security professional.
