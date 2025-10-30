@@ -9,10 +9,18 @@ Hello I'm Christian, I am currently completing my final term at Western Governor
 Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and skills to real-world challenges. My goal is to transition into a professional cybersecurity role where I can contribute to protecting systems and data while continuing to grow as a security professional.
 
 
-## Skills
+## 🧠 Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                         | Associated Project |
+|-----------------------------------------------|--------------------|
+| Risk Management & Compliance Analysis         | [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md) |
+| Security Policy Development & Mitigation Planning | [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md) |
+| Digital Forensics & Evidence Recovery         | [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md) |
+| Incident Response & Investigation Reporting   | [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md) |
+| Network Scanning & Vulnerability Assessment   | [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md) |
+| Network Protocol & CVE Analysis               | [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md) |
+| Scripting & Automation for Security Tasks     | Independent Practice / SOC Automation Labs |
+
 
 
 ## 🧰 Tools
@@ -74,3 +82,22 @@ Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and
 </div>
 
 ## 🧪 Projects
+
+### 🧱 [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md)  
+A detailed risk management and compliance analysis applying **NIST and FISMA frameworks** to identify vulnerabilities, assess CIA triad impacts, and recommend security controls for a nonprofit organization.
+
+**Key Skills:** Risk Management • Policy Compliance • NIST Frameworks • Incident Response Planning
+
+---
+
+### 🧪 [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md)  
+A hands-on forensic investigation using **Autopsy** to recover deleted files, analyze digital evidence, and determine intent behind a suspected insider data theft.
+
+**Key Skills:** Digital Forensics • Evidence Analysis • DFIR • Report Writing
+
+---
+
+### 🌐 [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md)  
+A practical network security assessment using **Nmap** and **Wireshark** to map hosts, identify service vulnerabilities, and recommend mitigation strategies based on real-world **CVE research**.
+
+**Key Skills:** Network Analysis • Vulnerability Assessment • Wireshark • CVE Research
