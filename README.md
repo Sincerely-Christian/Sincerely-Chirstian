@@ -20,6 +20,7 @@ Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and
 | Network Scanning & Vulnerability Assessment   | [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md) |
 | Network Protocol & CVE Analysis               | [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md) |
 | Scripting & Automation for Security Tasks     | Independent Practice / SOC Automation Labs |
+| Zero Trust Architecture Design & Implementation | [WGU Capstone – Saint’s Inc. Zero Trust Implementation](https://github.com/Sincerely-Christian/WGU-Capstone-Zero-Trust-Implementation/blob/main/README.md) |
 
 
 
@@ -102,3 +103,8 @@ A hands-on forensic investigation using **Autopsy** to recover deleted files, an
 A practical network security assessment using **Nmap** and **Wireshark** to map hosts, identify service vulnerabilities, and recommend mitigation strategies based on real-world **CVE research**.
 
 **Key Skills:** Network Analysis • Vulnerability Assessment • Wireshark • CVE Research
+
+### 🛡️ [WGU Capstone – Saint’s Inc. Zero Trust Implementation](https://github.com/Sincerely-Christian/WGU-Capstone-Zero-Trust-Implementation/blob/main/README.md)  
+A comprehensive Zero Trust architecture implementation for a mid-sized professional services organization (~250 users). Replaced an outdated perimeter model with IAM/MFA, role-based access control, network micro‑segmentation, endpoint hardening, encryption, and SIEM/EDR monitoring, supported by pre‑implementation and after‑action reports.
+
+**Key Skills:** Zero Trust Architecture • IAM & MFA • Network Segmentation • EDR & SIEM • Risk Management • Waterfall Project Management
