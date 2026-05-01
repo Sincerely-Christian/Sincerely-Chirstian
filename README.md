@@ -77,6 +77,7 @@ Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and
   <img src="https://img.shields.io/badge/-ISC2_SSCP-009639?&style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-CompTIA_Project%2B-ED1C24?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-LPI_Linux_Essentials-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-ED1C24?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 </div>
