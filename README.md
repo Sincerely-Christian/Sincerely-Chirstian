@@ -8,11 +8,34 @@ Hello I'm Christian, I am a recent graduate in Bachelor of Science in Cybersecur
 ## Objective
 Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and skills to real-world challenges. My goal is to transition into a professional cybersecurity role where I can contribute to protecting systems and data while continuing to grow as a security professional.
 
+## 🎓 Education
+
+### Western Governors University
+**Bachelor of Science in Cybersecurity and Information Assurance**
+
+Relevant Areas of Study:
+
+- Security Operations
+- Network Security
+- Digital Forensics
+- Incident Response
+- Identity & Access Management
+- Risk Management
+- Vulnerability Management
+- Cloud Security
+- Zero Trust Architecture
+
+---
 
 ## 🧠 Skills
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
+| Active Directory Administration & Identity Management | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
+| Windows Server Administration & Group Policy | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
+| DNS, DHCP & Network Services Administration | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
+| Identity & Access Management (IAM) | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
+| PowerShell & Security Automation | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
 | Risk Management & Compliance Analysis         | [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md) |
 | Security Policy Development & Mitigation Planning | [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md) |
 | Digital Forensics & Evidence Recovery         | [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md) |
@@ -84,6 +107,27 @@ Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and
 </div>
 
 ## 🧪 Projects
+
+### 🏢 [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab)
+
+Built and administered a simulated enterprise Active Directory environment using **Windows Server 2025 ARM**, **Windows 11**, and **Parallels Desktop on macOS**.
+
+Implemented:
+
+- Active Directory Domain Services (AD DS)
+- DNS
+- DHCP
+- RRAS/NAT
+- Group Policy Management
+- PowerShell Automation
+- Windows 11 Domain Integration
+
+Security controls included a domain-wide **Account Lockout Policy** to help mitigate brute-force and password-spraying attacks. The project required troubleshooting DNS validation issues, network adapter configuration, DHCP deployment, RRAS/NAT routing, and virtualization networking differences between VirtualBox and Parallels Desktop.
+
+**Key Skills:** Active Directory • Windows Server • Group Policy • DNS • DHCP • RRAS/NAT • PowerShell • IAM • Network Troubleshooting • Virtualization
+
+---
+
 
 ### 🧱 [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md)  
 A detailed risk management and compliance analysis applying **NIST and FISMA frameworks** to identify vulnerabilities, assess CIA triad impacts, and recommend security controls for a nonprofit organization.
