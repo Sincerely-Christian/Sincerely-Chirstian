@@ -4,29 +4,21 @@
 </a>
 
 ## About Me
-I'm a recent graduate with a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University. My interests include security operations, detection engineering, Active Directory administration, vulnerability management, and blue team operations.
 
-Through hands-on labs and projects, I've built experience deploying enterprise Windows environments, configuring SIEM solutions, investigating security events, performing vulnerability assessments, and implementing security hardening based on industry best practices.
+I'm a recent graduate with a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University. My interests include Security Operations (SOC), detection engineering, Active Directory administration, vulnerability management, and blue team operations.
+
+Through hands-on enterprise labs, I've built experience deploying Windows infrastructure, implementing SIEM solutions, investigating security events, performing vulnerability assessments, and applying security hardening based on industry best practices.
 
 ## Objective
-Seeking an entry-level cybersecurity position where I can apply my skills in security operations, detection engineering, Active Directory administration, and vulnerability management while continuing to grow as a security professional.
+Seeking an entry-level Security Operations, Security Engineering, or Cybersecurity Analyst role where I can apply my skills in enterprise infrastructure, detection engineering, Active Directory administration, and vulnerability management while continuing to grow as a security professional.
 
 ## 🎓 Education
 
 ### Western Governors University
+
 **Bachelor of Science in Cybersecurity and Information Assurance**
 
-Relevant Areas of Study:
-
-- Security Operations
-- Network Security
-- Digital Forensics
-- Incident Response
-- Identity & Access Management
-- Risk Management
-- Vulnerability Management
-- Cloud Security
-- Zero Trust Architecture
+**Graduated:** 2026
 
 ---
 
@@ -137,66 +129,17 @@ Security Hardening & Risk Acceptance | [Enterprise SOC Detection Lab](https://gi
 
 ## 🧪 Projects
 
-🛡️ [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)
-Expanded an Active Directory home lab into a full SOC-style detection engineering and vulnerability management environment using Windows Server 2025, Windows 11, Wazuh SIEM, Sysmon, Kali Linux, and Greenbone/OpenVAS.
-This lab demonstrates the complete security operations workflow:
-- Generate suspicious activity
-- Collect endpoint and domain logs
-- Detect events in Wazuh
-- Investigate alerts
-- Scan systems for vulnerabilities
-- Prioritize findings
-- Apply hardening controls
-- Validate remediation
-- Document accepted risk
+### 🛡️ [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md) 
+Designed and deployed a multi-machine Security Operations Center (SOC) lab featuring centralized log collection, detection engineering, threat hunting, vulnerability management, and security hardening using Wazuh, Sysmon, Windows Server 2025, Windows 11, Kali Linux, and Greenbone/OpenVAS. 
 
-Detection scenarios included Nmap reconnaissance, failed domain logons, suspicious PowerShell activity, and Windows service creation. Findings were mapped to MITRE ATT&CK techniques including T1046, T1110, T1059.001, and T1543.003.
+**Key Skills:** Wazuh SIEM • Sysmon • Detection Engineering • Threat Hunting • MITRE ATT&CK • Greenbone/OpenVAS • Vulnerability Management 
 
-The lab also included vulnerability scanning with Greenbone/OpenVAS, remediation through Group Policy and Linux hardening, Windows Firewall configuration, SSH hardening, TCP timestamp mitigation, and risk acceptance documentation.
+--- 
 
-**Key Skills:** Wazuh SIEM • Sysmon • Detection Engineering • Threat Hunting • Windows Event Analysis • MITRE ATT&CK • Greenbone/OpenVAS • Vulnerability Management • Group Policy Hardening • Linux Hardening • Risk Documentation
+### 🏢 [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) 
+Built and administered an enterprise Active Directory environment using Windows Server 2025 ARM, Windows 11, and Parallels Desktop, implementing AD DS, DNS, DHCP, RRAS/NAT, Group Policy, and PowerShell automation. 
 
----
-
-### 🏢 [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab)
-
-Built and administered a simulated enterprise Active Directory environment using **Windows Server 2025 ARM**, **Windows 11**, and **Parallels Desktop on macOS**.
-
-Implemented:
-
-- Active Directory Domain Services (AD DS)
-- DNS
-- DHCP
-- RRAS/NAT
-- Group Policy Management
-- PowerShell Automation
-- Windows 11 Domain Integration
-
-Security controls included a domain-wide **Account Lockout Policy** to help mitigate brute-force and password-spraying attacks. The project required troubleshooting DNS validation issues, network adapter configuration, DHCP deployment, RRAS/NAT routing, and virtualization networking differences between VirtualBox and Parallels Desktop.
-
-**Key Skills:** Active Directory • Windows Server • Group Policy • DNS • DHCP • RRAS/NAT • PowerShell • IAM • Network Troubleshooting • Virtualization
-
----
-
-
-### 🧱 [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md)  
-A detailed risk management and compliance analysis applying **NIST and FISMA frameworks** to identify vulnerabilities, assess CIA triad impacts, and recommend security controls for a nonprofit organization.
-
-**Key Skills:** Risk Management • Policy Compliance • NIST Frameworks • Incident Response Planning
-
----
-
-### 🧪 [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md)  
-A hands-on forensic investigation using **Autopsy** to recover deleted files, analyze digital evidence, and determine intent behind a suspected insider data theft.
-
-**Key Skills:** Digital Forensics • Evidence Analysis • DFIR • Report Writing
-
----
-
-### 🌐 [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md)  
-A practical network security assessment using **Nmap** and **Wireshark** to map hosts, identify service vulnerabilities, and recommend mitigation strategies based on real-world **CVE research**.
-
-**Key Skills:** Network Analysis • Vulnerability Assessment • Wireshark • CVE Research
+**Key Skills:** Active Directory • Windows Server • Group Policy • DNS • DHCP • RRAS/NAT • PowerShell • Identity & Access Management
 
 ---
 
@@ -204,3 +147,32 @@ A practical network security assessment using **Nmap** and **Wireshark** to map 
 A comprehensive Zero Trust architecture implementation for a mid-sized professional services organization (~250 users). Replaced an outdated perimeter model with IAM/MFA, role-based access control, network micro‑segmentation, endpoint hardening, encryption, and SIEM/EDR monitoring, supported by pre‑implementation and after‑action reports.
 
 **Key Skills:** Zero Trust Architecture • IAM & MFA • Network Segmentation • EDR & SIEM • Risk Management • Waterfall Project Management
+
+---
+
+### 🧪 [Digital Forensics Investigation – Autopsy Lab](https://github.com/Sincerely-Christian/Digital-Forensics-Autopsy-Lab-School-Project/blob/main/README.md)  
+Performed a forensic investigation using **Autopsy** to recover deleted evidence, analyze user activity, and document findings from a simulated insider threat scenario.
+
+**Key Skills:** Digital Forensics • Evidence Analysis • DFIR • Report Writing
+
+---
+
+### 🌐 [Network Mapping & Vulnerability Analysis – Nmap & Wireshark](https://github.com/Sincerely-Christian/Network-Mapping-and-Vulnerability-Analysis-School-Project/blob/main/README.md)  
+Conducted network reconnaissance and traffic analysis using **Nmap** and **Wireshark** to identify exposed services, analyze protocols, and research associated vulnerabilities.
+
+**Key Skills:** Network Analysis • Vulnerability Assessment • Wireshark • CVE Research
+
+---
+
+### 🧱 [Managing Information Security – Azumer Water Case](https://github.com/Sincerely-Christian/Managing-Information-Security-Azumer-Water-School-Project/blob/main/README.md)  
+Performed a security risk assessment using **NIST** and **FISMA** frameworks to identify organizational risks and recommend appropriate mitigation strategies.
+
+**Key Skills:** Risk Management • Policy Compliance • NIST Frameworks • Incident Response Planning
+
+---
+
+## 📈 Currently Learning
+
+- Microsoft Sentinel (Azure SIEM)
+- Microsoft Entra ID (Azure Active Directory)
+- Kusto Query Language (KQL)
