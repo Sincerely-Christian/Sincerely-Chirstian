@@ -1,4 +1,4 @@
-# Sincerely-Chirstian
+# Christian Szadolc | Cybersecurity Portfolio
 <a href="www.linkedin.com/in/christian-szadolc-6b107b24b
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -31,6 +31,12 @@ Relevant Areas of Study:
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
+SOC Detection Engineering |	[Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
+SIEM Deployment & Log Analysis | [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
+Sysmon Telemetry & Windows Event Analysis | [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
+MITRE ATT&CK Mapping | [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
+Vulnerability Management & Remediation | [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
+Security Hardening & Risk Acceptance | [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)|
 | Active Directory Administration & Identity Management | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
 | Windows Server Administration & Group Policy | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
 | DNS, DHCP & Network Services Administration | [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab) |
@@ -45,37 +51,49 @@ Relevant Areas of Study:
 | Scripting & Automation for Security Tasks     | Independent Practice / SOC Automation Labs |
 | Zero Trust Architecture Design & Implementation | [WGU Capstone – Saint’s Inc. Zero Trust Implementation](https://github.com/Sincerely-Christian/WGU-Capstone-Zero-Trust-Implementation/blob/main/README.md) |
 
+## 🧰 Tools & Technologies
 
+### 🏢 Identity & Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Group_Policy-5E5E5E?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DNS-00599C?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DHCP-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
 
-## 🧰 Tools
+### 🛡️ Security Operations & SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
-### 🌐 Network
+### 🌐 Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Firewall-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### 🖥️ Endpoint
+### 🔎 Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Greenbone-009639?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-009639?&style=for-the-badge&logoColor=white" />
 </div>
 
-### 🕵️ Forensics / Investigation
+### 🕵️ Digital Forensics & Incident Response
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-1E90FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logoColor=white" />
 </div>
 
-
-### 🧩 Operating System / Environment
+### ⚙️ Scripting & Automation
 <div>
-    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
-### ⚙️ Scripting / Automation
-<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
@@ -84,11 +102,16 @@ Relevant Areas of Study:
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-### 🧩 SIEM
+### 🖥️ Platforms & Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parallels_Desktop-CC0000?&style=for-the-badge&logoColor=white" />
 </div>
 
+---
 
 ## 🧾 Certifications
 <div>
@@ -104,9 +127,30 @@ Relevant Areas of Study:
   <img src="https://img.shields.io/badge/-CompTIA_PenTest%2B-ED1C24?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-</div>
+---
 
 ## 🧪 Projects
+
+🛡️ [Enterprise SOC Detection Lab](https://github.com/Sincerely-Christian/Enterprise-SOC-Detection-Lab/blob/main/README.md)
+Expanded an Active Directory home lab into a full SOC-style detection engineering and vulnerability management environment using Windows Server 2025, Windows 11, Wazuh SIEM, Sysmon, Kali Linux, and Greenbone/OpenVAS.
+This lab demonstrates the complete security operations workflow:
+- Generate suspicious activity
+- Collect endpoint and domain logs
+- Detect events in Wazuh
+- Investigate alerts
+- Scan systems for vulnerabilities
+- Prioritize findings
+- Apply hardening controls
+- Validate remediation
+- Document accepted risk
+
+Detection scenarios included Nmap reconnaissance, failed domain logons, suspicious PowerShell activity, and Windows service creation. Findings were mapped to MITRE ATT&CK techniques including T1046, T1110, T1059.001, and T1543.003.
+
+The lab also included vulnerability scanning with Greenbone/OpenVAS, remediation through Group Policy and Linux hardening, Windows Firewall configuration, SSH hardening, TCP timestamp mitigation, and risk acceptance documentation.
+
+**Key Skills:** Wazuh SIEM • Sysmon • Detection Engineering • Threat Hunting • Windows Event Analysis • MITRE ATT&CK • Greenbone/OpenVAS • Vulnerability Management • Group Policy Hardening • Linux Hardening • Risk Documentation
+
+---
 
 ### 🏢 [Active Directory Home Lab – Windows Server 2025 ARM](https://github.com/Sincerely-Christian/Active-Directory-Home-Lab)
 
@@ -147,6 +191,8 @@ A hands-on forensic investigation using **Autopsy** to recover deleted files, an
 A practical network security assessment using **Nmap** and **Wireshark** to map hosts, identify service vulnerabilities, and recommend mitigation strategies based on real-world **CVE research**.
 
 **Key Skills:** Network Analysis • Vulnerability Assessment • Wireshark • CVE Research
+
+---
 
 ### 🛡️ [WGU Capstone – Saint’s Inc. Zero Trust Implementation](https://github.com/Sincerely-Christian/WGU-Capstone-Zero-Trust-Implementation/blob/main/README.md)  
 A comprehensive Zero Trust architecture implementation for a mid-sized professional services organization (~250 users). Replaced an outdated perimeter model with IAM/MFA, role-based access control, network micro‑segmentation, endpoint hardening, encryption, and SIEM/EDR monitoring, supported by pre‑implementation and after‑action reports.
