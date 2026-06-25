@@ -1,11 +1,13 @@
 # Christian Szadolc | Cybersecurity Portfolio
-<a href="www.linkedin.com/in/christian-szadolc-6b107b24b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/christian-szadolc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-Hello I'm Christian, I am a recent graduate in Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University. My studies have provided me with a strong foundation in security principles, risk management, and hands-on technical skills across network defense, digital forensics, and incident response.
+I'm a recent graduate with a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University. My interests include security operations, detection engineering, Active Directory administration, vulnerability management, and blue team operations.
+
+Through hands-on labs and projects, I've built experience deploying enterprise Windows environments, configuring SIEM solutions, investigating security events, performing vulnerability assessments, and implementing security hardening based on industry best practices.
 
 ## Objective
-Driven by a deep passion for cybersecurity, I am eager to apply my knowledge and skills to real-world challenges. My goal is to transition into a professional cybersecurity role where I can contribute to protecting systems and data while continuing to grow as a security professional.
+Seeking an entry-level cybersecurity position where I can apply my skills in security operations, detection engineering, Active Directory administration, and vulnerability management while continuing to grow as a security professional.
 
 ## 🎓 Education
 
@@ -50,6 +52,8 @@ Security Hardening & Risk Acceptance | [Enterprise SOC Detection Lab](https://gi
 | Scripting & Automation for Security Tasks     | Independent Practice / SOC Automation Labs |
 | Zero Trust Architecture Design & Implementation | [WGU Capstone – Saint’s Inc. Zero Trust Implementation](https://github.com/Sincerely-Christian/WGU-Capstone-Zero-Trust-Implementation/blob/main/README.md) |
 
+---
+
 ## 🧰 Tools & Technologies
 
 ### 🏢 Identity & Infrastructure
@@ -66,6 +70,7 @@ Security Hardening & Risk Acceptance | [Enterprise SOC Detection Lab](https://gi
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-CC0000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Event_Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
