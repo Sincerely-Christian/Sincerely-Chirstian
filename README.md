@@ -1,6 +1,5 @@
 # Christian Szadolc | Cybersecurity Portfolio
-<a href="www.linkedin.com/in/christian-szadolc-6b107b24b
-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/christian-szadolc-6b107b24b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 Hello I'm Christian, I am a recent graduate in Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University. My studies have provided me with a strong foundation in security principles, risk management, and hands-on technical skills across network defense, digital forensics, and incident response.
